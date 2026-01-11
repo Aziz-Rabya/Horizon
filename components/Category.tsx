@@ -35,4 +35,4 @@ const Category = ({ category }: CategoryProps) => {
   );
 };
 
-export default Category;
+export default Category; 
